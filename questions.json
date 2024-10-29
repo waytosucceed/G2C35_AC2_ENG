@@ -1,0 +1,216 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What type of animal is mentioned in the poem?",
+    "options": [
+      "A dog",
+      "A hare",
+      "A cat"
+    ],
+    "correct": 1,
+    "explanation": "The poem starts with 'The hare hopped fast with fluffy hair,' which clearly mentions a hare."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What did the children see at the store?",
+    "options": [
+      "A toy car",
+      "A toy bear",
+      "A toy boat"
+    ],
+    "correct": 2,
+    "explanation": "In the second line of the first stanza, it says, 'At the store, there was a toy boat on sale!' This tells us that the children saw a toy boat, making this the correct answer."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What kind of bird did the children receive mail from?",
+    "options": [
+      "A nice male bird",
+      "A big bird",
+      "A funny bird"
+    ],
+    "correct": 0,
+    "explanation": "The poem concludes with, 'We got some mail from a nice male bird.' This directly describes the type of bird, confirming that this is the correct answer."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Choose the correct homophone: <br>The rabbit has soft, fluffy ____.",
+    "options": [
+      "hair",
+      "hare",
+      "heir"
+    ],
+    "correct": 0,
+    "explanation": "'Hair' is correct here. It means the fuzzy stuff that grows on animals and people. A rabbit has soft fur, which we call hair."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Select the right word:<br> The ____ jumped over the fence.",
+    "options": [
+      "hair",
+      "hare",
+      "hear"
+    ],
+    "correct": 1,
+    "explanation": "'Hare' is the right word. A hare is an animal similar to a rabbit but usually larger with longer ears. It can jump over fences."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Select the homophone of 'no.'<br> I know a nice place for a picnic.",
+    "options": [
+      "Know",
+      "Nice",
+      "For"
+    ],
+    "correct": 0,
+    "explanation": "'Know' means to have knowledge or information about something. In the sentence, 'I know a nice place for a picnic,' it is used to indicate that the person is aware of a nice place. 'No' is a word used to indicate a negative response. These words sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Select the homophone of 'wait.' <br>Please wait for me.",
+    "options": [
+      "Weight",
+      "Water",
+      "What"
+    ],
+    "correct": 0,
+    "explanation": "'Wait' means to pause or stay in one place until something happens. In the sentence, 'Please wait for me,' it is asking someone to hold on. 'Weight' refers to how heavy something is. Both of these words sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Select the homophone of 'sail.'<br> We will sail the boat.",
+    "options": [
+      "Soil",
+      "Sale",
+      "Sole"
+    ],
+    "correct": 1,
+    "explanation": "'Sail' means to travel on water using a boat or ship. In the sentence, 'We will sail the boat,' it shows the action of using the boat. 'Sale' means to sell something or a special event where things are sold. Both of these words sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Select the homophone of 'write.'<br> I will write a letter.",
+    "options": [
+      "Sight",
+      "Fight",
+      "Right"
+    ],
+    "correct": 2,
+    "explanation": "'Write' means to form letters and words on a page. In the sentence, 'I will write a letter,' it shows the action of composing a letter. 'Right' means correct or opposite of left. Both of these words sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Select the homophone of 'nose.'<br> He has a big nose.",
+    "options": [
+      "Knows",
+      "Grows",
+      "Toes"
+    ],
+    "correct": 0,
+    "explanation": "'Nose' is the part of the face used for smelling. In the sentence, 'He has a big nose,' it describes a feature of a person's face. 'Knows' means to have knowledge, it means they are aware of it or can tell you about it. Both of these words sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Choose the right homophone:<br> The heavy ____ of the box surprised me.",
+    "options": [
+      "Wait",
+      "Weight"
+    ],
+    "correct": 1,
+    "explanation": "'Weight' is the correct word. It means how heavy something is. When you pick up a heavy box, you feel its weight. 'Wait' means to stay in one place."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Select the correct homophone:<br> The store has a big ____.",
+    "options": [
+      "Sail",
+      "Sale"
+    ],
+    "correct": 1,
+    "explanation": "'Sale' is correct here. It means a special time when things in a store are sold for less money than usual. 'Sail' is what a boat does on water."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the homophone that means 'correct':",
+    "options": [
+      "Right",
+      "Write"
+    ],
+    "correct": 0,
+    "explanation": "'Right' is correct. It can mean correct or the opposite of left. 'Write' means to put words on paper."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word fits?<br> I will ____ a letter to my friend.",
+    "options": [
+      "Right",
+      "Write"
+    ],
+    "correct": 1,
+    "explanation": "'Write' is the right word. It means to put words on paper or type them on a computer. 'Right' means correct or the opposite of left."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Select the correct word:<br> We shared a ____ of cake.",
+    "options": [
+      "Piece",
+      "Peace"
+    ],
+    "correct": 0,
+    "explanation": "'Piece' means a part or portion of something larger, like a slice of cake. 'Peace' means when everything is calm and there's no fighting. Both of these words are homophones."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word completes the sentence: <br>We ____ our bikes to the park.",
+    "options": [
+      "Road",
+      "Rode",
+      "Rowed"
+    ],
+    "correct": 1,
+    "explanation": "'Rode' is the past tense of 'ride,' which means to travel on something like a bike. 'Road' is the path cars and bikes travel on."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the correct homophone:<br> My dog ____ where I hide his treats.",
+    "options": [
+      "Knows",
+      "Nose",
+      "No's"
+    ],
+    "correct": 0,
+    "explanation": "'Knows' is correct. It means to have information in your brain. Your dog remembers or understands where the treats are hidden. 'Nose' is the part of the face used for smelling."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Select the homophone that means 'a path for travelling':",
+    "options": [
+      "Rode",
+      "Road"
+    ],
+    "correct": 1,
+    "explanation": "'Road' is the right word. It means a path that cars, bikes, and people use to travel from one place to another. 'Rode' is the past tense of 'ride.'"
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Select the correct word: <br>We reached the mountain's ____.",
+    "options": [
+      "Pique",
+      "Peek",
+      "Peak"
+    ],
+    "correct": 2,
+    "explanation": "'Peak' means the very top of a mountain. 'Peek' means to take a quick look at something. Both these words are homophones, they sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct spelling: <br> <img src='./highway.png' width='150px'>",
+    "options": [
+      "Highway",
+      "Hiway",
+      "Highwey"
+    ],
+    "correct": 0,
+    "explanation": "'Highway' is the correct spelling of the word that means a main road that connects cities and towns."
+  }
+]
